@@ -1,8 +1,8 @@
 # Add your variables here
-first_number = number1
-second_numver = number2
-def add(number1, number2)
-  sum = number1 + number2
+first_number = 5
+second_number = 3
+def add(first_number, second_number)
+  sum = first_number + second_number
   puts sum
 end
 
