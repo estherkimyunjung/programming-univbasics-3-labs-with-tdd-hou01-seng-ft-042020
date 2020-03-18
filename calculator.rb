@@ -6,4 +6,3 @@ def add(first_number, second_number)
   puts sum
 end
 
-add(3,5)
